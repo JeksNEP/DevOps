@@ -1,3 +1,4 @@
+![logo](image/logo.jpg)
 # VSEMAYKI
 
 ![Python](https://img.shields.io/badge/Python_3.10-blue?logo=python&logoColor=yellow)
