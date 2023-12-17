@@ -1,0 +1,5 @@
+*products.db
+*.idea/
+*venv/
+*backend/__pycache__/
+*database/__pycache__/
